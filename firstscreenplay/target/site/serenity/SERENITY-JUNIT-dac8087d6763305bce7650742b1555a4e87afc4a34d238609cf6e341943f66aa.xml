@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="firstscreenplay.features.search.LoginStory" skipped="0" tests="1" time="11.02" timestamp="2021-04-25 09:58:05"><testcase classname="firstscreenplay.features.search.LoginStory" name="Show popup error message with wrong password"><failure message="&#10;Expected: &quot;Có lỗi xảy ra:- Mật khẩu không đúng, vui lòng kiểm tra lại&quot;&#10;     but: was &quot;Có lỗi xảy ra:\n- Mật khẩu không đúng, vui lòng kiểm tra lại&quot;" type="java.lang.AssertionError">
+Expected: "Có lỗi xảy ra:- Mật khẩu không đúng, vui lòng kiểm tra lại"
+     but: was "Có lỗi xảy ra:\n- Mật khẩu không đúng, vui lòng kiểm tra lại"</failure><system-err>
+Expected: "Có lỗi xảy ra:- Mật khẩu không đúng, vui lòng kiểm tra lại"
+     but: was "Có lỗi xảy ra:\n- Mật khẩu không đúng, vui lòng kiểm tra lại"&#13;
+firstscreenplay.features.search.LoginStory.show_popup_error_message_with_wrong_password(LoginStory.java:38)&#13;
+</system-err></testcase></testsuite>
